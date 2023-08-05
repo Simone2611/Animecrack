@@ -1,2 +1,2 @@
 # Animecrack
-Anime senza pubblicità
+Anime senza anime
