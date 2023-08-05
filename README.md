@@ -1,2 +1,2 @@
 # Animecrack
-Anime senza anime
+Anime senza anima
