@@ -1,5 +1,5 @@
 # Animecrack
-Animecrack prende i contenuti di AnimeWorld e li mostra qua senza pubblicità o popup. Fatto con [Node.js](https://nodejs.org/en/download)
+Animecrack prende i contenuti di AnimeWorld e li mostra qua senza pubblicità o popup. Fatto con [Node.js](https://nodejs.org/en/download).
 
 ## Instalazzione 
 
